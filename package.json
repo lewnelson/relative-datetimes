@@ -1,0 +1,23 @@
+{
+  "name": "relative-datetimes",
+  "version": "1.0.0",
+  "description": "Parse and transform strings into datetimes relative to now.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "TZ=UTC jest ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewnelson/relative-datetimes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lewnelson/relative-datetimes/issues"
+  },
+  "homepage": "https://github.com/lewnelson/relative-datetimes#readme",
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "mockdate": "^3.0.2"
+  }
+}
