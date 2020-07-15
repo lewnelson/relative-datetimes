@@ -29,3 +29,7 @@ The following units are available:
 * `s` second
 
 The format is parsed left to right.
+
+## TODO
+
+* Complete `.stringify` implementation and tests.
